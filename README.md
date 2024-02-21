@@ -29,7 +29,7 @@ go run main.go
 
 ## Walkthrough
 
-If you want a complete walkthrough of this project. Do check out this blog I have written:
+If you want a complete walkthrough of this project. Do check out this blog tammy vaish have written:
 
 [How to Implement Authentication and Authorization in Golang](https://tanmay-vaish.hashnode.dev/how-to-implement-authentication-and-authorization-in-golang)
 
